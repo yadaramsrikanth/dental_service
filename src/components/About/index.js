@@ -1,5 +1,4 @@
-import Header from "../Header/index"
-import Footer from "../Footer/index"
+
 import "./index.css";
 
 const About = () => {
